@@ -8,11 +8,7 @@
 
 import UIKit
 import AVFoundation
-/*
-FIGURE OUT HOW TO HIGHLIGHT MULTIPLE INSTANCES OF SAME WORD AND PHRASE.
-then figure out how to close the search bar if we click something else in the view controller
 
-AFTER THAT MAKE THIS APP HAVE A LIGHT VIEW FOR SEARCH BAR*/
 extension String
 {
     //this extension gets the starting indices of the substring inside the larger string
