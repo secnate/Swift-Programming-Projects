@@ -1,4 +1,4 @@
-# SwiftProjects
+# Programming Projects in Swift (iOS Devices)
 These are Nathan's programming projects from his explorations of iOS programming with Swift during the summer of 2017. They are as follows:
 
 - [Coin Collection App](https://github.com/secnate/SwiftProjects/tree/main/CoinCollection)
