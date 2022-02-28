@@ -7,7 +7,7 @@ This was my his first major iOS programming project. Nathan have been collecting
 
 - Note Taker
 
-Another iOS programming project. Nathan created it because he grew frustrated with other popular note-taking apps and wanted try my hand at creating one. One particular feature that I enjoy about this app is that it integrates voice-over reading of a note’s texts. This improve the accessibility of using one’s phone for note-taking for people with poor vision.
+Nathan created it because he grew frustrated with other popular note-taking apps and wanted try my hand at creating one. One particular feature that I enjoy about this app is that it integrates voice-over reading of a note’s texts. This improve the accessibility of using one’s phone for note-taking for people with poor vision.
 
 - Spaceship Shooter and Pong Games
 
