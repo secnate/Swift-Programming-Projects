@@ -3,7 +3,7 @@ These are Nathan's programming projects from his explorations of iOS programming
 
 - [Coin Collection App](https://github.com/secnate/SwiftProjects/tree/main/CoinCollection)
 
-This was my his first major iOS programming project. Nathan have been collecting circulating commemorative quaters for years since has was first exposed to U.S.’s “50 State Quarters Program,” and found it extremely frustrating to not have a mobile record of my collection. Thus, he created this app so that he and other collectors could carry and maintain a portable record of their collection. It could be especially useful if a collector unexpectedly sees a coin he wants and wants to check if he already has such one like it. One useful capability is the ability to sort the coins in a collection by categories [ex: coins having the same year, of the same country, and etc.].
+This was my his first major iOS programming project. Nathan have been collecting circulating commemorative quaters for years since has was first exposed to U.S.’s “50 State Quarters Program” and found it extremely frustrating to not have a mobile record of his collection. Thus, he created this app as an exercise and so that he and other collectors could carry and maintain a portable record of their collection. It could be especially useful if a collector unexpectedly sees a coin he wants and wants to check if he already has such one like it. One useful capability is the ability to sort the coins in a collection by categories [ex: coins having the same year, of the same country, and etc.].
 
 - [Note Taker](https://github.com/secnate/SwiftProjects/tree/main/Note%20Taker)
 
